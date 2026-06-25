@@ -2,7 +2,7 @@ Talent Matcher AI is an intelligent recruitment platform that matches candidates
 
 
 GitHub Repository:
-https://github.com/reshmamolankula-svg/talent-matcher-ai.git
+https://github.com/reshmamolankula-svg/talent-matcher-ai
 
 
 Live Demo:
