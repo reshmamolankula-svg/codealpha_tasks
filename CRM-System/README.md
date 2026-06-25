@@ -2,7 +2,7 @@ Enterprise CRM System is a customer relationship management platform designed to
 
 
 GitHub Repository:
-https://github.com/reshmamolankula-svg/warm-sales-nexus.git
+https://github.com/reshmamolankula-svg/warm-sales-nexus
 
 Live Demo:
 https://warm-sales-nexus.lovable.app
